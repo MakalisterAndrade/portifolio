@@ -2,8 +2,6 @@
 
 ## Status
 ![Website Status](https://img.shields.io/website?url=)
-[![Dockerfile Build CI](https://github.com/makalisterandrade/portfolio/actions/workflows/docker-image.yml/badge.svg?branch=main)](https://github.com/makalisterandrade/portfolio/actions/workflows/docker-image.yml)
-[![Pylint](https://github.com/makalisterandrade/portfolio/actions/workflows/pylint.yml/badge.svg?branch=main)](https://github.com/makalisterandrade/portfolio/actions/workflows/pylint.yml)
 
 ## Introduction
 
