@@ -1,0 +1,156 @@
+{
+    "header": {
+        "title": "Makalister Andrade da Silva",
+        "meta": {
+            "description": "Welcome to Makalister Andraade.",
+            "author": "Makalister A"
+        }
+    },
+    "body": {
+        "designation": "Desenvolvedor",
+        "username": "Makalister Andrade da Silva",
+        "mail_id": "makalister.andrade@outlook.com",
+        "social_links": {
+            "linkedin": "https://www.linkedin.com/in/makalisterand",
+            "github": "https://github.com/MakalisterAndrade/",
+            "youtube": "https://youtube.com"        
+        },
+        "section": {
+            "hero": {
+                "tag_line": "Um analista de sistemas, desenvolvedor e analista administrativo.",
+                "description": "Makalister combina experiência em tecnologia e administração, com formação em Análise e Desenvolvimento de Sistemas pelo IFRO e graduação em Administração em andamento. Atuou no setor público e privado, desenvolvendo habilidades em suporte técnico, desenvolvimento web e gestão administrativa. Apaixonado por tecnologia e análise de dados, dedica-se a aprimorar seus conhecimentos e encontrar soluções eficientes. Nos momentos livres, busca aprendizado contínuo e equilíbrio por meio da leitura e exploração de novas tecnologias.",
+                "flexes": {
+                    "coding_hours": "30+",
+                    "total_commits": "500+",
+                    "total_contributions": "25+"
+                }
+            },
+            "about": {
+                "about_tag_line": "Every great Idea begin with<br>an even <span>better story</span>",
+                "about_description": "Um profissional dinâmico com formação em Análise e Desenvolvimento de Sistemas pelo IFRO e graduação em Administração em andamento. Sua trajetória abrange experiências no setor público e privado, atuando em desenvolvimento web, suporte técnico e gestão administrativa. Ao longo de sua carreira, contribuiu para instituições como a Fundação Getúlio Vargas (FGV), onde gerenciou portais web com CMS Drupal, além de participar de pesquisas científicas focadas em análise de dados e desenvolvimento de sistemas. Também esteve envolvido em projetos do setor público, lidando com documentação técnica, testes de sistemas e processos administrativos. Apaixonado por aprendizado contínuo, Makalister se dedica ao estudo de análise de dados, desenvolvimento em Python e tecnologias em nuvem. Nos momentos livres, explora novas tendências tecnológicas, contribui para projetos de código aberto e aprimora suas habilidades em programação e otimização de sistemas."
+            },
+            "resume": {
+                "0": {
+                    "timeline": "2021 - 2024",
+                    "position": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                    "company": "Instituto Federal de Rondônia - IFRO"
+                },
+                "1": {
+                    "timeline": "2023 - 2027",
+                    "position": "Bacharelado em Administração",
+                    "company": "ETEP"
+                },
+                "2": {
+                    "timeline": "mai-2024 - nov-2024",
+                    "position": "Bolsista Discente",
+                    "company": "Instituto Federal de Brasília (IFB)"
+                },
+                "3": {
+                    "timeline": "2023 - 2024",
+                    "position": "Estágio TI / webdev",
+                    "company": "Fundação Getúlio Vargas/Centro de Pesquisa e Documentação de História Contemporânea (FGV/CPDOC)"
+                },
+                "4": {
+                    "timeline": "abr-2023 - out-2023",
+                    "position": "Estágio Desenvolvedor Web Python/Django",
+                    "company": "Instituto Federal de Rondônia (IFRO)"
+                },
+                "5": {
+                    "timeline": "2022 - 2024",
+                    "position": "Prestador Voluntário de Serviços Administrativos",
+                    "company": "Governo do Estado de Rondônia"
+                },
+                "6": {
+                    "timeline": "2022 - 2024",
+                    "position": "Agente de Apoio Técnico Júnior de Nível Superior 1 (Informática)",
+                    "company": "Projeto Cidades Inteligentes"
+                }},
+            "services": [
+                {
+                    "title": "Desenvolvimento Backend/Web",
+                    "description": "Experiente no desenvolvimento de aplicações web utilizando Python (Django/Flask), PHP e plataformas CMS como Drupal e WordPress. Habilidades em gerenciamento de bancos de dados com PostgreSQL, MySQL e Firebird.",
+                    "project_count": "3+",
+                    "icon": "code"
+                 },
+                 {
+                    "title": "Análise de Dados",
+                    "description": "Proficiente em análise de dados utilizando Python, R, Tableau e Power BI. Experiência na criação de relatórios, dashboards e monitoramento de indicadores de desempenho para processos administrativos.",
+                    "project_count": "2+",
+                    "icon": "chart-line"
+                 },
+                 {
+                    "title": "Automação",
+                    "description": "Desenvolvimento de soluções de automação utilizando Python e tecnologias de conteinerização como Docker. Experiência com testes de sistemas e documentação técnica.",
+                    "project_count": "2+",
+                    "icon": "infinity"
+                 }
+            ],
+            "skills": [
+                {
+                    "skill_name": "Python",
+                    "image_path": "python.png",
+                    "proficiency": "75%"
+                },
+                {
+                    "skill_name": "SQL",
+                    "image_path": "sql.png",
+                    "proficiency": "75%"
+                },
+                {
+                    "skill_name": "Docker",
+                    "image_path": "docker.png",
+                    "proficiency": "80%"
+                },
+                {
+                    "skill_name": "PHP",
+                    "image_path": "php.png",
+                    "proficiency": "65%"
+                },
+                {
+                    "skill_name": "Power BI",
+                    "image_path": "powerbi.png",
+                    "proficiency": "60%"
+                }
+            ],
+            "portfolio": [
+                {
+                    "project_name": "Sistema de Ponto Eletrônico",
+                    "project_link": "https://github.com/MakalisterAndrade/sistema-ponto-eletronico",
+                    "project_img_path": "pontoeletronico.png",
+                    "tags": ["php", "laravel", "mysql"],
+                    "github_link": "https://github.com/MakalisterAndrade/sistema-ponto-eletronico"
+                },
+                {
+                    "project_name": "Gerador de Placas Segurança Rural PMRO",
+                    "project_link": "https://github.com/MakalisterAndrade/sistema-automatizador-gerador-placas",
+                    "project_img_path": "geradorplaca.png",
+                    "tags": ["python", "customtkinter", "pymupdf", "pyinstaller"],
+                    "github_link": "https://github.com/MakalisterAndrade/sistema-automatizador-gerador-placas"
+                },
+                {
+                    "project_name": "Análise Criminal PMRO/CRP-IV",
+                    "project_link": "https://app.powerbi.com/view?r=eyJrIjoiNGZlYmI1NDEtM2ZkMi00Y2RjLTg5NjMtOGFhNWEzZjQ3NDU1IiwidCI6ImIxYjYyZmNhLTQ1NDUtNGZiOS05NTE2LTcwMTM4Y2YwMjlhZSJ9&pageName=a9ebe136c3dfb154c31f",
+                    "project_img_path": "analisecriminal.png",
+                    "tags": ["powerBI", "excel", "VBA"]
+                },
+                {
+                    "project_name": "Monitor de Desempenho PMRO/CRP-IV",
+                    "project_link": "https://app.powerbi.com/view?r=eyJrIjoiMDQ0NTNlYzYtYThmNy00Y2U5LWJjYzktMTUxYzg4MTY4YTBiIiwidCI6ImIxYjYyZmNhLTQ1NDUtNGZiOS05NTE2LTcwMTM4Y2YwMjlhZSJ9",
+                    "project_img_path": "monitordesempenho.png",
+                    "tags": ["powerBI", "excel", "VBA"]
+                }
+            ],
+            "testimonials": [
+                {
+                    "photo": "",
+                    "username": "",
+                    "designation": "",
+                    "statement": ""
+                }
+            ]
+        },
+        "instagram_bio": {
+            "tag_line": ""
+        }
+    }
+}
