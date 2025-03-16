@@ -1,8 +1,5 @@
 # Portfolio Website
 
-## Status
-![Website Status](https://img.shields.io/website?url=https://portifolio-b1j3.onrender.com/)
-
 ## Introduction
 
 The Portfolio Website is a Python Flask application to host your portfolio.
